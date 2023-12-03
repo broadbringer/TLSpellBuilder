@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7482b9c422cd426faca78662babe3760, type: 3}
+  m_Name: GeneralDataBase
+  m_EditorClassIdentifier: 
+  WeaponTypeToDataInstanceMap:
+    keys: 01000000020000000300000004000000050000000600000007000000
+    values:
+    - {fileID: 11400000, guid: f6b7044dc3164d349863e4154622843b, type: 2}
+    - {fileID: 11400000, guid: 3e16add7ddcf347459849aab5e349994, type: 2}
+    - {fileID: 11400000, guid: 8623ee2e1a0845d45b076515050aa517, type: 2}
+    - {fileID: 11400000, guid: cbf4c2b1b68cf2c4eaa9face42ae418f, type: 2}
+    - {fileID: 11400000, guid: ef63319bce651d44f8ae5d7e13a366bd, type: 2}
+    - {fileID: 11400000, guid: adeb6a5767c063743b2fc9ecba02d725, type: 2}
+    - {fileID: 11400000, guid: e043c8f530530fb40af03d2c054f6b76, type: 2}
+    _values: []
+    _keys: 
