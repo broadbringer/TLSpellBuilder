@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: DaggersData
   m_EditorClassIdentifier: 
   WeaponVariant: 3
-  ActiveSpells: []
+  ActiveSpells:
+  - {fileID: 11400000, guid: 2eab88ecc38c4814090cbc603fae7372, type: 2}
+  - {fileID: 11400000, guid: 6784610d057f7d0459f4732322504835, type: 2}
   PassiveSpells: []

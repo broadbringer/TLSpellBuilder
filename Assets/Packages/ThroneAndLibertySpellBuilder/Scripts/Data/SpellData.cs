@@ -13,10 +13,10 @@ namespace Packages.ThroneAndLibertySpellBuilder.Scripts.Data
         public string Effect;
         public string Cooldown;
         public SpellType Type;
-        
-        public int ID { get; set; }
 
-        public void SetID(int id) => 
+        public string ID;
+
+        public void SetID(string id) => 
             ID = id;
     }
 }
